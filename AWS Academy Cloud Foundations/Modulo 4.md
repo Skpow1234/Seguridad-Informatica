@@ -6,7 +6,7 @@
 
 ## R1
 
--- Seguridad en la nube
+-- Seguridad de la nube
 
 ## Q2
 
