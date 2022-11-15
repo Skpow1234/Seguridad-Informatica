@@ -30,7 +30,7 @@
 
 ## R4
 
---
+-- Is, gives, provides
 
 ## Q5
 
@@ -62,7 +62,7 @@
 
 ## R8
 
--- Place the web server and databse in a private subnet, and the load balancer in a public subnet
+-- Place the web server and database in a private subnet, and the load balancer in a public subnet
 
 ## Q9
 
